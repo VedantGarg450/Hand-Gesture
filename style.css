@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #aee88d;
+}
+span
+{
+  font-size: 40px;
+}
+#cam , #snap
+{
+  border: 2px solid black;
+  width: 400px;
+  height: 400px; 
+}
+#emotion_1 ,#emotion_2  
+{
+  font-size: 35px;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.header {
+  letter-spacing: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 26px;
+}
+label{
+  background-color: white;
+  color: crimson;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 17px;
+}
